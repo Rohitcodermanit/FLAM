@@ -3,9 +3,9 @@
 
 # Approach
 1. The given problem contains three unknown parameters and only two equations,which makes the system underdetermined.Therefore the parameters cannot be uniquely solved using analytical methods alone.
-2. To address this the dataset was analyzed by visual inspection. First the data points were plotted to observe the overall curve shape and behavior.
+2. To address this i analyzed the dataset by visual inspection then First plotted the data points to observe the overall curve shape and behavior.
 3. The curve generated from the given parametric equations was then plotted separately using initial trial values of the parameters.
-4. A trial-and-error (hit-and-try) fitting approach was used to adjust the parameter and attempt to overlap the analytical curve with the dataset curve.
+4. I used trial-and-error (hit-and-try) fitting approach to adjust the parameter and attempt to overlap the analytical curve with the dataset curve.
 5. Through systematic variation of parameters, the individual roles of each parameter were identified:
    - M primarily controls the amplitude modulation of the curve through the exponential term.
    - X shifts the curve horizontally along the x-axis.
